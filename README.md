@@ -1,4 +1,3 @@
-# Top-5-Kaggle-titanic-disaster-solution-
 # Solution is divided into 4 parts:
 1. Preprocessing
 2. Find best Encoders
@@ -22,7 +21,8 @@
 - stacking different classfiers
 - make prediction
 
-### Final Score: 
-![alt text](image.jpg)
+### Final Score top 4.5% (17/09/2021): 
+![alt text](https://github.com/gurokeretcha/Top-5-Kaggle-titanic-disaster-solution-/blob/main/images/Screenshot%202021-09-17%20232228.png)
+
 
 
