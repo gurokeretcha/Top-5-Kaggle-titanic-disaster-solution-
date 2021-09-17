@@ -1,8 +1,8 @@
 # Solution is divided into 4 parts:
-1. Preprocessing
-2. Find best Encoders
-3. Find best features
-4. Stacking classifiers and make prediction
+- Preprocessing
+- Find best Encoders
+- Find best features
+- Stacking classifiers and make prediction
 
 1. **Preprocessing**:
 - fill nan values.
